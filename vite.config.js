@@ -9,7 +9,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'PokeWiki Retro PWA',
+        name: 'Pokedex',
         short_name: 'PokeWiki',
         description: 'Pokedex con estilo retro de consolas portatiles',
         theme_color: '#ff0000',
