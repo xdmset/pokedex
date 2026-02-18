@@ -52,7 +52,7 @@ npm run dev
 
 # 4. Construir para producción (PWA)
 npm run build
-🛠️ Tecnologías Utilizadas
+ Tecnologías Utilizadas
 React (Biblioteca principal)
 
 Vite (Herramienta de construcción)
