@@ -1,5 +1,5 @@
-PokéWiki PWA: Retro Edition
-Este proyecto es una Aplicación Web Progresiva (PWA) de alto rendimiento desarrollada con React y Vite. Permite explorar el universo Pokémon con una estética nostálgica de consola de 8 bits, integrando datos en tiempo real de la PokéAPI.
+PokéWiki PWA: 
+Este proyecto es una Aplicación Web Progresiva (PWA) desarrollada con React y Vite. Permite explorar el universo Pokémon con una estética nostálgica de consola de 8 bits, integrando datos en tiempo real de la PokéAPI.
 
 Enlace del Proyecto: https://pokedex-tau-vert.vercel.app/
 
