@@ -29,7 +29,6 @@ export default defineConfig({
         ]
       },
       workbox: {
-        // Esto permite que los datos de la PokeAPI se guarden en caché
         runtimeCaching: [{
           urlPattern: /^https:\/\/pokeapi\.co\/api\/v2\/.*/i,
           handler: 'NetworkFirst',
